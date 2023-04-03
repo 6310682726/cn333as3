@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">multiGame</string>
+    <string name="back_button">Back</string>
+    <string name="one_cupcake">One Cupcake</string>
+    <string name="six_cupcakes">Six Cupcakes</string>
+    <string name="twelve_cupcakes">Twelve Cupcakes</string>
+    <string name="choose_flavor">Number Guess</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="choose_pickup_date">Mahjong</string>
+
+    <string name="title">Number Guessing Game</string>
+    <string name="signature_text">Try to guess the number I am thinging of from 1 - 1000!</string>
+    <string name="roll">Roll</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="cost_of_service">Your Guess</string>
+    <string name="tip_amount">Hint: %s</string>
+
+    <string name="instructions">Unscramble the word using all the letters.</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score: %d</string>
+    <string name="word_count">%d of 10 quiz</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_scored">"You scored: %d"</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="wrong_guess">Wrong Guess!</string>
+    <string name="order_summary">Quiz</string>
+</resources>
